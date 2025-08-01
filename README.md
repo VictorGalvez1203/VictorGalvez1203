@@ -54,5 +54,4 @@ Soy **Víctor Eulogio Galvez Faña**, estudiante de Desarrollo de Software en el
 
 ---
 
-<i>Última actualización: 01-08-2025</i>  
-<i>Este README fue generado a partir del CV de Víctor Eulogio Galvez Faña</i>
+<i>Última actualización: 01-08-2025</i>
