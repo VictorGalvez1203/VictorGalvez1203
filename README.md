@@ -47,9 +47,7 @@ Soy **Víctor Eulogio Galvez Faña**, estudiante de Desarrollo de Software en el
 ## 📫 Contáctame
 
 <div align="center">
-  <a href="mailto:victorgalvez0312@gmail.com" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="Email" />
-  </a>
+ [![Gmail](https://img.icons8.com/bubbles/100/000000/gmail-new.png)](mailto:victorgalvez0312@gmail.com)
   <a href="https://www.linkedin.com/in/victor-eulogio-galvez-faña-b61b6229a" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
