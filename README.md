@@ -43,12 +43,9 @@ Soy **Víctor Eulogio Galvez Faña**, estudiante de Desarrollo de Software en el
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-📧 victorgalvez0312@gmail.com
 ## 📫 Contáctame
+📧 victorgalvez0312@gmail.com
 <div align="center">
-  <a href="mailto:victorgalvez0312@gmail.com" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="Email" />
-  </a>
   <a href="https://www.linkedin.com/in/victor-eulogio-galvez-faña-b61b6229a" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
