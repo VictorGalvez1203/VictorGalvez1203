@@ -43,6 +43,57 @@ Soy **Víctor Eulogio Galvez Faña**, estudiante de Desarrollo de Software en el
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 🚀 Proyectos Destacados
+
+### 🧾 API de Contribuyentes DGII
+🔗 https://github.com/VictorGalvez03/dgii_api_contribuyentes
+
+API para consulta de información de contribuyentes (RNC/Cédula) integrando servicios de la DGII.
+
+🔧 Tecnologías: C#, .NET, API REST  
+💡 Enfoque: Integración de datos fiscales y servicios externos  
+
+---
+
+### ⚙️ Práctica de Entrega Continua (CI)
+🔗 https://github.com/VictorGalvez1203/Practica-Entrega-Continua
+
+Implementación de integración continua utilizando pipelines automatizados para testing y despliegue.
+
+🔧 Tecnologías: GitHub Actions, CI/CD  
+💡 Enfoque: Automatización de procesos de desarrollo  
+
+---
+
+### 🔄 Integración Continua - Evaluación Parcial
+🔗 https://github.com/VictorGalvez1203/electiva2-evaluacion-1er-parcial-integracion-continua
+
+Proyecto enfocado en la configuración de integración continua en entornos de desarrollo reales.
+
+🔧 Tecnologías: DevOps, CI/CD  
+💡 Enfoque: Buenas prácticas de desarrollo moderno  
+
+---
+
+### 🏦 BankPlus - Sistema Bancario
+🔗 https://github.com/VictorGalvez1203/BankPlus
+
+Sistema bancario que gestiona operaciones como cuentas, transacciones y lógica financiera.
+
+🔧 Tecnologías: C#, SQL Server  
+💡 Enfoque: Lógica de negocio y manejo de datos  
+
+---
+
+### 🚀 Pipeline DevOps Final
+🔗 https://github.com/VictorGalvez1203/Practica_Final_Implementacion_de_Pipeline_DevOps
+
+Implementación completa de pipeline DevOps desde integración hasta despliegue.
+
+🔧 Tecnologías: DevOps, CI/CD, automatización  
+💡 Enfoque: Flujo completo de desarrollo  
+
+---
 ## 📫 Contáctame
 📧 galvezfanavictor@gmail.com
 <div align="center">
