@@ -85,7 +85,7 @@ Sistema bancario que gestiona operaciones como cuentas, transacciones y lógica 
 
 ---
 
-### 🚀 Pipeline DevOps Final
+### 🚀 Pipeline DevOps
 🔗 https://github.com/VictorGalvez1203/Practica_Final_Implementacion_de_Pipeline_DevOps
 
 Implementación completa de pipeline DevOps desde integración hasta despliegue.
