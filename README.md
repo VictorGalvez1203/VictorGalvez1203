@@ -65,7 +65,7 @@ Implementación de integración continua utilizando pipelines automatizados para
 
 ---
 
-### 🔄 Integración Continua - Evaluación Parcial
+### 🔄 Integración Continua
 🔗 https://github.com/VictorGalvez1203/electiva2-evaluacion-1er-parcial-integracion-continua
 
 Proyecto enfocado en la configuración de integración continua en entornos de desarrollo reales.
