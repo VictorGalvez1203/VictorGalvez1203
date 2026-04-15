@@ -10,7 +10,7 @@ Soy **Víctor Eulogio Galvez Faña**, estudiante de Desarrollo de Software en el
 
 📍 Santo Domingo Este, República Dominicana  
 🎓 Estudiante universitario | Desarrollo de Software  
-🔍 Buscando oportunidades de prácticas, empleo temporal o fijo  
+🔍 Buscando oportunidades de trabajo  
 💼 Interés en desarrollo backend, frontend y bases de datos  
 
 ---
