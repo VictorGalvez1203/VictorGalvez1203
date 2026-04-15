@@ -46,7 +46,7 @@ Soy **Víctor Eulogio Galvez Faña**, estudiante de Desarrollo de Software en el
 ## 🚀 Proyectos Destacados
 
 ### 🧾 API de Contribuyentes DGII
-🔗 https://github.com/VictorGalvez03/dgii_api_contribuyentes
+🔗 https://github.com/VictorGalvez1203/api_contribuyentes_.git
 
 API para consulta de información de contribuyentes (RNC/Cédula) integrando servicios de la DGII.
 
