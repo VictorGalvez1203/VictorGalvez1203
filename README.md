@@ -104,4 +104,4 @@ Implementación completa de pipeline DevOps desde integración hasta despliegue.
 
 ---
 
-<i>Última actualización: 01-08-2025</i>
+<i>Última actualización: 15-04-2026</i>
